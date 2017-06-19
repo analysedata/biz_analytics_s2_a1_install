@@ -1,0 +1,1 @@
+I confirm that I have R base, R studio and Swirl are installed. 
